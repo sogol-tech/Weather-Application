@@ -166,3 +166,6 @@ h2 {
   font-size: xx-large;
   transition: all 200ms ease-in-out;
 }
+.myCode {
+  text-align: center;
+}
