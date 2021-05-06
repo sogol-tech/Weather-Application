@@ -1,0 +1,168 @@
+.container {
+  position: relative;
+}
+body {
+  max-width: 800px;
+  margin-left: 20px;
+  margin-top: 40px;
+}
+.weather-app {
+  border: 1px solid;
+  border-radius: 20px;
+  padding: 20px 10px;
+  padding-right: 20px;
+  padding-bottom: -60px;
+  box-shadow: 3px 3px 3px grey;
+  border-color: #5b8a72;
+  max-height: 700px;
+}
+img {
+  display: block;
+  margin: 0 auto;
+  width: 600px;
+}
+h1 {
+  text-align: center;
+  font-family: "Bebas Neue", cursive;
+  font-size: 200px;
+  position: relative;
+  bottom: 330px;
+  left: 20px;
+  color: #fffffd;
+}
+.c {
+  font-size: 40px;
+  position: relative;
+  right: 80px;
+  bottom: 20px;
+}
+h2 {
+  text-align: center;
+  font-family: "Bebas Neue", cursive;
+  font-size: 60px;
+  position: relative;
+  bottom: 250px;
+  padding: 15px;
+}
+
+.time {
+  position: relative;
+  bottom: 730px;
+  left: 155px;
+  font-family: "Montserrat", sans-serif;
+  font-size: 15px;
+}
+.status {
+  position: relative;
+  bottom: 560px;
+  left: 40px;
+  font-family: "Montserrat", sans-serif;
+  font-size: 30px;
+}
+.condition {
+  position: relative;
+  bottom: 630px;
+  left: 43px;
+  font-family: "Montserrat", sans-serif;
+  font-size: 15px;
+}
+
+.options {
+  position: relative;
+  bottom: 580px;
+  left: 510px;
+  font-size: 15px;
+  font-family: "Montserrat", sans-serif;
+}
+.search-city {
+  position: relative;
+  bottom: 900px;
+  left: 490px;
+  font-family: "Montserrat", sans-serif;
+}
+
+.button {
+  position: relative;
+  bottom: 932px;
+  left: 700px;
+  border: white;
+  background-color: white;
+  border-radius: 80px;
+  font-size: x-large;
+}
+
+.row {
+  position: relative;
+  bottom: 460px;
+  left: 20px;
+  font-family: "Montserrat", sans-serif;
+  font-size: 18px;
+  text-align: center;
+}
+.fa-cloud-sun {
+  font-size: 40px;
+  padding: 15px;
+}
+.fa-cloud {
+  font-size: 40px;
+  padding: 15px;
+}
+.fa-cloud-sun-rain {
+  font-size: 40px;
+  padding: 15px;
+}
+.fa-cloud-rain {
+  font-size: 40px;
+  padding: 15px;
+}
+.fa-cloud-showers-heavy {
+  font-size: 40px;
+  padding: 15px;
+}
+.fa-sun {
+  font-size: 40px;
+  padding: 15px;
+}
+.one {
+  font-family: "Bebas Neue", cursive;
+  font-size: 40px;
+}
+.two {
+  font-family: "Bebas Neue", cursive;
+  font-size: 40px;
+}
+.three {
+  font-family: "Bebas Neue", cursive;
+  font-size: 40px;
+}
+.four {
+  font-family: "Bebas Neue", cursive;
+  font-size: 40px;
+}
+.five {
+  font-family: "Bebas Neue", cursive;
+  font-size: 40px;
+}
+.six {
+  font-family: "Bebas Neue", cursive;
+  font-size: 40px;
+}
+.celcius:hover {
+  font-size: 17px;
+  transition: all 200ms ease-in-out;
+  cursor: pointer;
+}
+.fahrenheit:hover {
+  font-size: 17px;
+  transition: all 200ms ease-in-out;
+  cursor: pointer;
+}
+.col-2:hover {
+  font-size: 20px;
+  transition: all 200ms ease-in-out;
+  cursor: pointer;
+}
+.button:hover {
+  font-size: xx-large;
+  transition: all 200ms ease-in-out;
+}
